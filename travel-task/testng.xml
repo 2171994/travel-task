@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Google Travel Planning Suite">
+  <test name="Full Travel Test">
+    <classes>
+      <class name="tests.TravelPlanningTest"/>
+    </classes>
+  </test>
+</suite>
